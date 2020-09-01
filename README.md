@@ -5,7 +5,7 @@ Aplicativo android desenvolvido em Flutter que consome uma API de consulta por C
 O projeto foi desenvolvido em Flutter.
 
 ## Screeshoot
-![Screenshot](screenshot.jpg)
+![Screenshot](screenshot.png)
 
 ## Autor
 **Widson Melo**
